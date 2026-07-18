@@ -1,0 +1,22 @@
+Storage shed
+30000
+Taurus bathtub
+12350
+Phone box
+12000
+Flower bed
+10000
+Ironwood cupboard
+9780
+Asteroid
+4000
+Jail bars
+3750
+Apple chair
+2480
+Bamboo basket
+1120
+Tiki torch
+650
+Wooden stool 
+480

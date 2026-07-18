@@ -1,0 +1,27 @@
+13
+F
+Dace
+I
+Ant
+F
+Pike
+I
+Flea
+F
+Mahi Mahi
+F
+Killifish
+F
+Goldfish
+I
+Cricket
+I
+Ladybug
+F
+Bluegill
+I
+Bee
+I
+Snail
+F
+Angelfish
