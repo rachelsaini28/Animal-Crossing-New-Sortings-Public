@@ -17,7 +17,7 @@ Students must help different characters in the _Animal Crossing_ universe sort t
 * Sorts ```Catalog``` ArrayList using Quick Sort
 * Provides a partially implemented Recursive Binary Search algorithm for students to debug and complete
     * Searches for the item that matches an inputted value
-* Displays Animal-Crossing-inspired GUI written in Swing (```Driver.java```)
+* Displays _Animal-Crossing_-inspired GUI written in Swing (```Driver.java```)
     * Home screen allows user to navigate to:
         * **Blathers' Museum** (for Merge Sort)
         * **Nook's Cranny** (for Quick Sort + Recursive Binary Search)
