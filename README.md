@@ -4,9 +4,9 @@
 This project is an assignment for the CS121: Introduction to Computer Science course.  
 
 Students must help different characters in the Animal Crossing universe sort their files and shop inventory. The goal of this assignment is for students to understand and implement recursive sorting and searching algorithms such as Merge Sort, Quick Sort, and Recursive Binary Search.
-* Merge Sort: Sort an array of ```Creature``` objects (fish and insects) lexicographically by group, with fish preceding insects
-* Quick Sort: Sort an ArrayList of ```Catalog``` item prices from lowest to highest
-* Recursive Binary Search: Requires students to debug the provided algorithm before running it on the sorted Catalog ArrayList
+* **Merge Sort:** Sort an array of ```Creature``` objects (fish and insects) lexicographically by group, with fish preceding insects
+* **Quick Sort:** Sort an ArrayList of ```Catalog``` item prices from lowest to highest
+* **Recursive Binary Search:** Requires students to debug the provided algorithm before running it on the sorted Catalog ArrayList
 
 > **Note:** This project was developed through a university program that creates assignments for introductory computer science courses. Solution code is not included in accordance with the university's academic integrity policy. Students will be writing their code in ```SortingAndSearching.java``` in areas where a ```// WRITE YOUR CODE HERE``` comment is present.
 
