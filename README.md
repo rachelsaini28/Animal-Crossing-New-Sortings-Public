@@ -45,6 +45,6 @@ There are **6** ```txt``` files, 3 for Creature objects and 3 for Catalog object
 
 ## 📸 Snapshots
 The following screenshots illustrate each algorithm's interface:
-![Merge Sort screen displaying an unsorted Creature array](link)
-![Quick Sort screen displaying an unsorted CatalogItem ArrayList](link)
-![Recursive Binary Search screen displaying a sorted CatalogItem ArrayList and a value to search](link)
+![Merge Sort screen displaying an unsorted Creature array](/snapshots/blathersUnsorted)
+![Quick Sort screen displaying an unsorted CatalogItem ArrayList](/snapshots/nooksUnsorted)
+![Recursive Binary Search screen displaying a sorted CatalogItem ArrayList and a value to search](/snapshots/recursiveBinSearch)
